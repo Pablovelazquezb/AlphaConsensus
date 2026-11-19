@@ -1,0 +1,369 @@
+{
+  "n": 40,
+  "hit_rate": 0.475,
+  "mean_return": -0.0052537,
+  "mean_excess": -0.003628600000000001,
+  "median_excess": -0.008189,
+  "trades": [
+    {
+      "date": "2026-04-28",
+      "ticker": "NVDA",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.076151,
+      "excess": -0.094048
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "IREN",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.322741,
+      "excess": 0.298425
+    },
+    {
+      "date": "2026-05-04",
+      "ticker": "NBIS",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.084674,
+      "excess": 0.060585
+    },
+    {
+      "date": "2026-05-06",
+      "ticker": "QCOM",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.119009,
+      "excess": 0.109164
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "MU",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.118366,
+      "excess": -0.120439
+    },
+    {
+      "date": "2026-05-18",
+      "ticker": "ASTS",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.408433,
+      "excess": 0.387109
+    },
+    {
+      "date": "2026-05-29",
+      "ticker": "DELL",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.074448,
+      "excess": -0.050477
+    },
+    {
+      "date": "2026-06-02",
+      "ticker": "HPQ",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.064034,
+      "excess": -0.03617
+    },
+    {
+      "date": "2026-06-03",
+      "ticker": "IREN",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.171242,
+      "excess": -0.136028
+    },
+    {
+      "date": "2026-06-03",
+      "ticker": "INTC",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.012916,
+      "excess": 0.022298
+    },
+    {
+      "date": "2026-06-04",
+      "ticker": "ONDS",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.139351,
+      "excess": -0.119913
+    },
+    {
+      "date": "2026-06-05",
+      "ticker": "MRVL",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.030248,
+      "excess": -0.02799
+    },
+    {
+      "date": "2026-06-16",
+      "ticker": "NOK",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.035137,
+      "excess": -0.013759
+    },
+    {
+      "date": "2026-06-16",
+      "ticker": "MSFT",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.011363,
+      "excess": 0.019443
+    },
+    {
+      "date": "2026-06-17",
+      "ticker": "SPCX",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.188492,
+      "excess": -0.169187
+    },
+    {
+      "date": "2026-06-23",
+      "ticker": "ORCL",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.09759,
+      "excess": -0.113854
+    },
+    {
+      "date": "2026-06-25",
+      "ticker": "NFLX",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.016141,
+      "excess": -0.029826
+    },
+    {
+      "date": "2026-06-25",
+      "ticker": "TSLA",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.164839,
+      "excess": -0.178524
+    },
+    {
+      "date": "2026-07-01",
+      "ticker": "MU",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.047053,
+      "excess": 0.052593
+    },
+    {
+      "date": "2026-07-17",
+      "ticker": "META",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.116982,
+      "excess": -0.151228
+    },
+    {
+      "date": "2026-08-02",
+      "ticker": "GLW",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.105357,
+      "excess": 0.082164
+    },
+    {
+      "date": "2026-08-02",
+      "ticker": "ORCL",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.131272,
+      "excess": 0.108079
+    },
+    {
+      "date": "2026-08-02",
+      "ticker": "NBIS",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.021076,
+      "excess": 0.010518
+    },
+    {
+      "date": "2026-08-02",
+      "ticker": "GOOGL",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.030366,
+      "excess": 0.061959
+    },
+    {
+      "date": "2026-08-03",
+      "ticker": "PLTR",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.239519,
+      "excess": 0.238214
+    },
+    {
+      "date": "2026-08-07",
+      "ticker": "NFLX",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.041285,
+      "excess": 0.049977
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "TSLA",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.071623,
+      "excess": -0.078882
+    },
+    {
+      "date": "2026-08-16",
+      "ticker": "SPCX",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.022002,
+      "excess": 0.008312
+    },
+    {
+      "date": "2026-08-17",
+      "ticker": "MSFT",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.020387,
+      "excess": 0.039594
+    },
+    {
+      "date": "2026-08-26",
+      "ticker": "MU",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.012183,
+      "excess": 0.007813
+    },
+    {
+      "date": "2026-08-27",
+      "ticker": "NVDA",
+      "side": "short",
+      "score": 0.0925,
+      "horizon_days": 5,
+      "return": 0.005506,
+      "excess": -0.003726
+    },
+    {
+      "date": "2026-09-03",
+      "ticker": "PL",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.11558,
+      "excess": -0.121878
+    },
+    {
+      "date": "2026-09-18",
+      "ticker": "AMZN",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": 0.023312,
+      "excess": 0.022921
+    },
+    {
+      "date": "2026-09-25",
+      "ticker": "INTC",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.011065,
+      "excess": -0.012652
+    },
+    {
+      "date": "2026-09-25",
+      "ticker": "MSTR",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.113604,
+      "excess": -0.109433
+    },
+    {
+      "date": "2026-09-28",
+      "ticker": "SNDK",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": -0.023143,
+      "excess": 0.033732
+    },
+    {
+      "date": "2026-09-28",
+      "ticker": "ORCL",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.012928,
+      "excess": -0.016645
+    },
+    {
+      "date": "2026-09-29",
+      "ticker": "META",
+      "side": "long",
+      "score": 0.1061,
+      "horizon_days": 21,
+      "return": -0.160309,
+      "excess": -0.167903
+    },
+    {
+      "date": "2026-09-29",
+      "ticker": "MU",
+      "side": "short",
+      "score": 0.0925,
+      "horizon_days": 5,
+      "return": -0.028271,
+      "excess": 0.044762
+    },
+    {
+      "date": "2026-09-29",
+      "ticker": "AMD",
+      "side": "short",
+      "score": 0.1061,
+      "horizon_days": 5,
+      "return": 0.066736,
+      "excess": -0.050244
+    }
+  ]
+}

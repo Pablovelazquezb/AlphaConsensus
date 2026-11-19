@@ -1,0 +1,29 @@
+{
+  "_comment": "Whitelist SEMILLA con handles ficticios (prefijo demo_). Sustituir por las 15-30 cuentas reales en Fase 1. 'cluster' sesga de qué tickers habla cada cuenta en el generador sintético; es solo metadata del demo.",
+  "accounts": [
+    { "handle": "demo_semis",    "cluster": "semis",   "category": "semiconductors", "note": "demo: alta credibilidad" },
+    { "handle": "demo_silicon",  "cluster": "semis",   "category": "semiconductors", "note": "demo: credibilidad media-alta" },
+    { "handle": "demo_wafer",    "cluster": "semis",   "category": "semiconductors", "note": "demo: ruido" },
+    { "handle": "demo_fab",      "cluster": "semis",   "category": "semiconductors", "note": "demo: anti-señal" },
+
+    { "handle": "demo_mega",     "cluster": "megacap", "category": "mega cap",       "note": "demo: alta credibilidad" },
+    { "handle": "demo_value",    "cluster": "megacap", "category": "value",          "note": "demo: credibilidad media" },
+    { "handle": "demo_bigtech",  "cluster": "megacap", "category": "mega cap",       "note": "demo: ruido" },
+    { "handle": "demo_dividend", "cluster": "megacap", "category": "income",         "note": "demo: credibilidad baja" },
+
+    { "handle": "demo_degen",    "cluster": "highbeta","category": "high beta",      "note": "demo: credibilidad media-alta" },
+    { "handle": "demo_momo",     "cluster": "highbeta","category": "momentum",       "note": "demo: credibilidad media" },
+    { "handle": "demo_retail",   "cluster": "highbeta","category": "retail flow",    "note": "demo: ruido" },
+    { "handle": "demo_ape",      "cluster": "highbeta","category": "retail flow",    "note": "demo: anti-señal" },
+
+    { "handle": "demo_macro",    "cluster": "macro",   "category": "macro",          "note": "demo: credibilidad media-alta" },
+    { "handle": "demo_rates",    "cluster": "macro",   "category": "rates",          "note": "demo: credibilidad media" },
+    { "handle": "demo_etf",      "cluster": "macro",   "category": "etf flow",       "note": "demo: ruido" },
+    { "handle": "demo_hedge",    "cluster": "macro",   "category": "hedge fund",     "note": "demo: credibilidad media-baja" },
+
+    { "handle": "demo_quant",    "cluster": "general", "category": "quant",          "note": "demo: alta credibilidad" },
+    { "handle": "demo_flow",     "cluster": "general", "category": "options flow",   "note": "demo: credibilidad media-alta" },
+    { "handle": "demo_charts",   "cluster": "general", "category": "technical",      "note": "demo: credibilidad baja" },
+    { "handle": "demo_news",     "cluster": "general", "category": "news",           "note": "demo: ruido" }
+  ]
+}

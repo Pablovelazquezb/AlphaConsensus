@@ -1,0 +1,42 @@
+{
+  "_comment": "Staging: candidatos a whitelist. NO lo carga la app todavía. Revisar, validar con docs/whitelist.md y mover solo los aprobados a config/accounts.json (X) y config/congress.json (miembros).",
+  "generated_at": "2026-11-19",
+  "data_window": "2026-08-21..2026-11-19 (ventana gratuita ~3 meses)",
+  "sources": {
+    "congress": "Bargo Congress Trades API (STOCK Act, House + Senate)",
+    "x": "X/Twitter"
+  },
+  "candidates": [
+    { "id": "congress:gilbert-cisneros", "source": "congress", "role": "signal", "name": "Gilbert Cisneros", "chamber": "house", "state": "CA31", "trades_90d": 119, "median_lag_days": 21, "status": "candidate", "note": "Mayor actividad de la ventana; rotación alta" },
+    { "id": "congress:kevin-hern", "source": "congress", "role": "signal", "name": "Kevin Hern", "chamber": "house", "state": "OK01", "trades_90d": 105, "median_lag_days": null, "status": "candidate", "note": "Ways & Means; perfil vendedor" },
+    { "id": "congress:rohit-khanna", "source": "congress", "role": "signal", "name": "Ro Khanna", "chamber": "house", "state": "CA17", "trades_90d": 105, "median_lag_days": null, "status": "candidate", "note": "Tech; compras y ventas equilibradas" },
+    { "id": "congress:maria-elvira-salazar", "source": "congress", "role": "signal", "name": "Maria Elvira Salazar", "chamber": "house", "state": "FL27", "trades_90d": 54, "median_lag_days": null, "status": "candidate", "note": "Foreign Affairs" },
+    { "id": "congress:david-j-taylor", "source": "congress", "role": "signal", "name": "David J. Taylor", "chamber": "house", "state": "OH02", "trades_90d": 47, "median_lag_days": null, "status": "candidate", "note": "Verificar comité" },
+    { "id": "congress:april-mcclain-delaney", "source": "congress", "role": "signal", "name": "April McClain Delaney", "chamber": "house", "state": "MD06", "trades_90d": 37, "median_lag_days": null, "status": "candidate", "note": "Verificar comité" },
+    { "id": "congress:pete-sessions", "source": "congress", "role": "signal", "name": "Pete Sessions", "chamber": "house", "state": "TX17", "trades_90d": 33, "median_lag_days": null, "status": "candidate", "note": "Verificar comité" },
+    { "id": "congress:michael-t-mccaul", "source": "congress", "role": "signal", "name": "Michael T. McCaul", "chamber": "house", "state": "TX10", "trades_90d": 20, "median_lag_days": null, "status": "candidate", "note": "Defensa/semis; Foreign Affairs" },
+    { "id": "congress:john-boozman", "source": "congress", "role": "signal", "name": "John Boozman", "chamber": "senate", "state": "AR", "trades_90d": 18, "median_lag_days": null, "status": "candidate", "note": "Agricultura" },
+    { "id": "congress:richard-blumenthal", "source": "congress", "role": "signal", "name": "Richard Blumenthal", "chamber": "senate", "state": "CT", "trades_90d": 12, "median_lag_days": null, "status": "candidate", "note": "Judiciary" },
+    { "id": "congress:jonathan-jackson", "source": "congress", "role": "signal", "name": "Jonathan Jackson", "chamber": "house", "state": "IL01", "trades_90d": 11, "median_lag_days": null, "status": "candidate", "note": "Verificar comité" },
+    { "id": "congress:thomas-h-kean-jr", "source": "congress", "role": "signal", "name": "Thomas H. Kean Jr.", "chamber": "house", "state": "NJ07", "trades_90d": 10, "median_lag_days": null, "status": "candidate", "note": "Verificar comité" },
+    { "id": "congress:josh-gottheimer", "source": "congress", "role": "signal", "name": "Josh Gottheimer", "chamber": "house", "state": "NJ05", "trades_90d": 5, "median_lag_days": null, "status": "candidate", "note": "Financial Services" },
+    { "id": "congress:james-french-hill", "source": "congress", "role": "signal", "name": "French Hill", "chamber": "house", "state": "AR02", "trades_90d": 1, "median_lag_days": null, "status": "candidate", "note": "Financial Services/cripto; poca actividad en la ventana" },
+    { "id": "congress:nancy-pelosi", "source": "congress", "role": "signal", "name": "Nancy Pelosi", "chamber": "house", "state": "CA11", "trades_90d": 1, "median_lag_days": 30, "status": "candidate", "note": "Atención mediática alta, actividad baja (1 venta WBD); no confundir fama con track record" },
+
+    { "id": "x:jimcramer", "source": "x", "role": "voter", "handle": "jimcramer", "status": "candidate", "note": "Alta frecuencia de llamadas; acierto cuestionado" },
+    { "id": "x:BillAckman", "source": "x", "role": "voter", "handle": "BillAckman", "status": "candidate", "note": "Tesis activistas, pocas y de impacto" },
+    { "id": "x:unusual_whales", "source": "x", "role": "voter", "handle": "unusual_whales", "status": "candidate", "note": "Flujo de opciones con ticker; ruidoso" },
+    { "id": "x:markminervini", "source": "x", "role": "voter", "handle": "markminervini", "status": "candidate", "note": "Setups técnicos con niveles" },
+    { "id": "x:stockbee", "source": "x", "role": "voter", "handle": "stockbee", "status": "candidate", "note": "Breadth/momentum" },
+    { "id": "x:firstadopter", "source": "x", "role": "voter", "handle": "firstadopter", "status": "candidate", "note": "Análisis tech con tickers" },
+    { "id": "x:DeItaone", "source": "x", "role": "context", "handle": "DeItaone", "status": "candidate", "note": "Titulares; no da dirección" },
+    { "id": "x:FirstSquawk", "source": "x", "role": "context", "handle": "FirstSquawk", "status": "candidate", "note": "Titulares rápidos" },
+    { "id": "x:zerohedge", "source": "x", "role": "context", "handle": "zerohedge", "status": "candidate", "note": "Sesgo bajista; ruido/contrarian" },
+    { "id": "x:convertbond", "source": "x", "role": "context", "handle": "convertbond", "status": "candidate", "note": "Macro/tasas" },
+    { "id": "x:dariusdale42", "source": "x", "role": "context", "handle": "dariusdale42", "status": "candidate", "note": "Ciclos macro" },
+    { "id": "x:LizAnnSonders", "source": "x", "role": "context", "handle": "LizAnnSonders", "status": "candidate", "note": "Macro/mercado" },
+    { "id": "x:RayDalio", "source": "x", "role": "context", "handle": "RayDalio", "status": "candidate", "note": "Macro de largo plazo" },
+    { "id": "x:chamath", "source": "x", "role": "context", "handle": "chamath", "status": "candidate", "note": "Tech/macro; opinión" },
+    { "id": "x:dylan522p", "source": "x", "role": "context", "handle": "dylan522p", "status": "candidate", "note": "Semis/IA, investigación" }
+  ]
+}

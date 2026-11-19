@@ -1,0 +1,44 @@
+[
+  {
+    "handle": "ethan__trader",
+    "n": 547,
+    "mean_excess": 0.025692,
+    "hit_rate": 0.5247,
+    "t_stat": 4.116
+  },
+  {
+    "handle": "darkflowalert",
+    "n": 568,
+    "mean_excess": 0.005854,
+    "hit_rate": 0.5546,
+    "t_stat": 1.914
+  },
+  {
+    "handle": "fcastillomarco",
+    "n": 3,
+    "mean_excess": 0.016288,
+    "hit_rate": 0.6667,
+    "t_stat": 1.114
+  },
+  {
+    "handle": "jasonl_capital",
+    "n": 288,
+    "mean_excess": 0.006295,
+    "hit_rate": 0.5069,
+    "t_stat": 0.651
+  },
+  {
+    "handle": "curiouspejjy",
+    "n": 286,
+    "mean_excess": -0.000112,
+    "hit_rate": 0.4825,
+    "t_stat": -0.019
+  },
+  {
+    "handle": "stockmktnewz",
+    "n": 267,
+    "mean_excess": -0.006199,
+    "hit_rate": 0.4419,
+    "t_stat": -1.55
+  }
+]

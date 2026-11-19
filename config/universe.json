@@ -1,0 +1,13 @@
+{
+  "tickers": [
+    "AAPL", "MSFT", "NVDA", "AMD", "TSLA", "META", "GOOGL", "AMZN",
+    "NFLX", "AVGO", "SMCI", "PLTR", "COIN", "ORCL", "CRM", "UBER",
+    "SPY", "QQQ", "IWM", "TLT", "GLD", "XLE", "XLF", "XLK"
+  ],
+  "blacklist": [
+    "USD", "CASH", "CEO", "CFO", "CTO", "IPO", "GDP", "FED", "SEC",
+    "ETF", "AI", "EV", "US", "USA", "UK", "EU", "PE", "EPS", "YOY",
+    "QOQ", "TAM", "ARR", "LOL", "WTF", "ATH", "PT", "DD", "OP",
+    "ALL", "NOW", "NEW", "BUY", "SELL", "HODL", "FOMO", "YOLO"
+  ]
+}

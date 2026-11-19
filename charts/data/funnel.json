@@ -1,0 +1,16 @@
+{
+  "whitelist": {
+    "label": "Curated whitelist (15 accounts)",
+    "downloaded": 12212,
+    "accepted": 6531,
+    "signals": 265,
+    "consensus": 0
+  },
+  "validation": {
+    "label": "Two-year validation (6 accounts)",
+    "downloaded": 5695,
+    "accepted": 3561,
+    "signals": 1977,
+    "consensus": 40
+  }
+}

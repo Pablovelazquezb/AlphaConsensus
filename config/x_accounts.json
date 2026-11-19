@@ -1,0 +1,21 @@
+{
+  "_comment": "Whitelist de X propuesta (sin validar todavía). 'voter' = puede votar en el consenso; 'context' = solo informa filtros de riesgo, peso 0. Ver docs/whitelist.md.",
+  "accounts": [
+    { "handle": "jimcramer", "role": "voter", "category": "media", "enabled": true },
+    { "handle": "BillAckman", "role": "voter", "category": "activist", "enabled": true },
+    { "handle": "unusual_whales", "role": "voter", "category": "options_flow", "enabled": true },
+    { "handle": "markminervini", "role": "voter", "category": "technical", "enabled": true },
+    { "handle": "stockbee", "role": "voter", "category": "momentum", "enabled": true },
+    { "handle": "firstadopter", "role": "voter", "category": "tech", "enabled": true },
+
+    { "handle": "DeItaone", "role": "context", "category": "news", "enabled": true },
+    { "handle": "FirstSquawk", "role": "context", "category": "news", "enabled": true },
+    { "handle": "zerohedge", "role": "context", "category": "news", "enabled": true },
+    { "handle": "convertbond", "role": "context", "category": "macro", "enabled": true },
+    { "handle": "dariusdale42", "role": "context", "category": "macro", "enabled": true },
+    { "handle": "LizAnnSonders", "role": "context", "category": "macro", "enabled": true },
+    { "handle": "RayDalio", "role": "context", "category": "macro", "enabled": true },
+    { "handle": "chamath", "role": "context", "category": "macro", "enabled": true },
+    { "handle": "dylan522p", "role": "context", "category": "semis", "enabled": true }
+  ]
+}

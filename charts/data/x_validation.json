@@ -1,0 +1,80 @@
+[
+  {
+    "handle": "darkflowalert",
+    "n_calls": 568,
+    "hits": 315,
+    "hit_rate": 0.5546,
+    "shrunk_hit_rate": 0.5542,
+    "mean_excess_return": 0.005854,
+    "weight": 0.0667,
+    "provisional": 0,
+    "computed_at": "2026-11-19T22:37:14.982897+00:00",
+    "role": "voter",
+    "effective_weight": 0.0667
+  },
+  {
+    "handle": "ethan__trader",
+    "n_calls": 547,
+    "hits": 287,
+    "hit_rate": 0.5247,
+    "shrunk_hit_rate": 0.5245,
+    "mean_excess_return": 0.025692,
+    "weight": 0.0394,
+    "provisional": 0,
+    "computed_at": "2026-11-19T22:37:14.982879+00:00",
+    "role": "voter",
+    "effective_weight": 0.0394
+  },
+  {
+    "handle": "fcastillomarco",
+    "n_calls": 3,
+    "hits": 2,
+    "hit_rate": 0.6667,
+    "shrunk_hit_rate": 0.5714,
+    "mean_excess_return": 0.016288,
+    "weight": 0.0258,
+    "provisional": 1,
+    "computed_at": "2026-11-19T22:37:14.982900+00:00",
+    "role": "voter",
+    "effective_weight": 0.0258
+  },
+  {
+    "handle": "curiouspejjy",
+    "n_calls": 286,
+    "hits": 138,
+    "hit_rate": 0.4825,
+    "shrunk_hit_rate": 0.4828,
+    "mean_excess_return": -8.1e-05,
+    "weight": 0.0,
+    "provisional": 0,
+    "computed_at": "2026-11-19T22:37:14.982827+00:00",
+    "role": "voter",
+    "effective_weight": 0.0
+  },
+  {
+    "handle": "stockmktnewz",
+    "n_calls": 267,
+    "hits": 118,
+    "hit_rate": 0.4419,
+    "shrunk_hit_rate": 0.4428,
+    "mean_excess_return": -0.006199,
+    "weight": 0.0,
+    "provisional": 0,
+    "computed_at": "2026-11-19T22:37:14.982848+00:00",
+    "role": "voter",
+    "effective_weight": 0.0
+  },
+  {
+    "handle": "jasonl_capital",
+    "n_calls": 288,
+    "hits": 146,
+    "hit_rate": 0.5069,
+    "shrunk_hit_rate": 0.5068,
+    "mean_excess_return": 0.006295,
+    "weight": 0.0,
+    "provisional": 0,
+    "computed_at": "2026-11-19T22:37:14.982860+00:00",
+    "role": "voter",
+    "effective_weight": 0.0
+  }
+]

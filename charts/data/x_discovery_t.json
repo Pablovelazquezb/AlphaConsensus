@@ -1,0 +1,205 @@
+[
+  {
+    "handle": "ethan__trader",
+    "n": 621,
+    "mean_excess": 0.020705,
+    "hit_rate": 0.5169,
+    "t_stat": 3.621
+  },
+  {
+    "handle": "darkflowalert",
+    "n": 11,
+    "mean_excess": 0.020546,
+    "hit_rate": 0.8182,
+    "t_stat": 2.623
+  },
+  {
+    "handle": "fcastillomarco",
+    "n": 8,
+    "mean_excess": 0.011975,
+    "hit_rate": 0.625,
+    "t_stat": 1.988
+  },
+  {
+    "handle": "kpak82",
+    "n": 84,
+    "mean_excess": 0.007099,
+    "hit_rate": 0.4762,
+    "t_stat": 1.263
+  },
+  {
+    "handle": "2eztradez",
+    "n": 304,
+    "mean_excess": 0.002327,
+    "hit_rate": 0.3191,
+    "t_stat": 1.237
+  },
+  {
+    "handle": "invest_brandon",
+    "n": 45,
+    "mean_excess": 0.004516,
+    "hit_rate": 0.4889,
+    "t_stat": 1.07
+  },
+  {
+    "handle": "basssem666",
+    "n": 50,
+    "mean_excess": 0.001782,
+    "hit_rate": 0.18,
+    "t_stat": 1.034
+  },
+  {
+    "handle": "cheddarflow",
+    "n": 175,
+    "mean_excess": 0.002773,
+    "hit_rate": 0.4343,
+    "t_stat": 0.766
+  },
+  {
+    "handle": "thenewmoney_app",
+    "n": 74,
+    "mean_excess": 0.008825,
+    "hit_rate": 0.4595,
+    "t_stat": 0.735
+  },
+  {
+    "handle": "curiouspejjy",
+    "n": 28,
+    "mean_excess": 0.0066,
+    "hit_rate": 0.6071,
+    "t_stat": 0.59
+  },
+  {
+    "handle": "billbrooklyn10",
+    "n": 491,
+    "mean_excess": 0.00313,
+    "hit_rate": 0.4664,
+    "t_stat": 0.49
+  },
+  {
+    "handle": "itsmichaelluu",
+    "n": 48,
+    "mean_excess": 0.004159,
+    "hit_rate": 0.4583,
+    "t_stat": 0.485
+  },
+  {
+    "handle": "stockmktnewz",
+    "n": 20,
+    "mean_excess": 0.003115,
+    "hit_rate": 0.7,
+    "t_stat": 0.481
+  },
+  {
+    "handle": "stelliumtape",
+    "n": 35,
+    "mean_excess": 0.003449,
+    "hit_rate": 0.4286,
+    "t_stat": 0.38
+  },
+  {
+    "handle": "wealthcoachmak",
+    "n": 14,
+    "mean_excess": -0.000827,
+    "hit_rate": 0.2857,
+    "t_stat": -0.091
+  },
+  {
+    "handle": "jasonl_capital",
+    "n": 13,
+    "mean_excess": -0.001424,
+    "hit_rate": 0.5385,
+    "t_stat": -0.097
+  },
+  {
+    "handle": "stocksavvyshay",
+    "n": 6,
+    "mean_excess": -0.001672,
+    "hit_rate": 0.5,
+    "t_stat": -0.107
+  },
+  {
+    "handle": "daltonbrewer",
+    "n": 21,
+    "mean_excess": -0.002298,
+    "hit_rate": 0.4286,
+    "t_stat": -0.18
+  },
+  {
+    "handle": "pdicarlotrader",
+    "n": 23,
+    "mean_excess": -0.003991,
+    "hit_rate": 0.3913,
+    "t_stat": -0.25
+  },
+  {
+    "handle": "defitracer",
+    "n": 75,
+    "mean_excess": -0.003221,
+    "hit_rate": 0.4667,
+    "t_stat": -0.603
+  },
+  {
+    "handle": "thestockwhale",
+    "n": 119,
+    "mean_excess": -0.010681,
+    "hit_rate": 0.4118,
+    "t_stat": -1.144
+  },
+  {
+    "handle": "vip92226041",
+    "n": 528,
+    "mean_excess": -0.007441,
+    "hit_rate": 0.4905,
+    "t_stat": -1.163
+  },
+  {
+    "handle": "mikelongterm",
+    "n": 44,
+    "mean_excess": -0.010181,
+    "hit_rate": 0.3409,
+    "t_stat": -1.179
+  },
+  {
+    "handle": "traderjonesy",
+    "n": 93,
+    "mean_excess": -0.0014,
+    "hit_rate": 0.1828,
+    "t_stat": -1.312
+  },
+  {
+    "handle": "kobeissiletter",
+    "n": 38,
+    "mean_excess": -0.018595,
+    "hit_rate": 0.3947,
+    "t_stat": -1.524
+  },
+  {
+    "handle": "eliteoptions2",
+    "n": 202,
+    "mean_excess": -0.004697,
+    "hit_rate": 0.4604,
+    "t_stat": -1.779
+  },
+  {
+    "handle": "reddogt3",
+    "n": 66,
+    "mean_excess": -0.013376,
+    "hit_rate": 0.3485,
+    "t_stat": -1.98
+  },
+  {
+    "handle": "theprofinvestor",
+    "n": 42,
+    "mean_excess": -0.016709,
+    "hit_rate": 0.3571,
+    "t_stat": -2.048
+  },
+  {
+    "handle": "cfpstrategist4u",
+    "n": 12,
+    "mean_excess": -0.010429,
+    "hit_rate": 0.0833,
+    "t_stat": -2.517
+  }
+]
