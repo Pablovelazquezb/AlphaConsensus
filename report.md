@@ -12,14 +12,14 @@
 AlphaConsensus was built to test a single hypothesis: **can a weighted consensus of influential X (Twitter) accounts and public congressional disclosures produce tradable equity signals?** The project delivered a complete research pipeline — ingestion, NLP extraction, credibility scoring, consensus aggregation, risk sizing, paper execution and backtesting — and evaluated it on real data:
 
 - **4,031 congressional trades** from 291 official House Clerk filings (2023–2026).
-- **~23,000 tweets** from 45 curated and discovered accounts.
+- **~28,000 tweets** from 45 curated and discovered accounts.
 
 The evidence does **not** support deploying capital.
 
 **Key findings**
 
 1. **The infrastructure works.** The end-to-end pipeline runs on synthetic and real data, persists every signal, and is covered by 81 tests.
-2. **Congressional disclosures show no robust edge.** Only Nancy Pelosi has a positive point estimate at 21 days (+5.0% vs QQQ), but `t = 1.78`, `n = 25`, and her large positions are options that were excluded. A second member (Thomas Kean) reaches `t = 2.08` but with a 50.8% hit rate; after multiple-testing and horizon changes, the ranking reshuffles. No member receives a meaningful weight.
+2. **Congressional disclosures show no robust edge.** Only Nancy Pelosi has a positive point estimate that receives a (provisional) weight at 21 days (+5.0% vs QQQ), but `t = 1.78`, `n = 25`, and her large positions are options that were excluded. A second member (Thomas Kean) reaches `t = 2.08` but with a 50.8% hit rate; after multiple-testing and horizon changes, the ranking reshuffles. No member receives a meaningful weight.
 3. **A curated whitelist of 15 famous accounts produced zero consensus.** 12,212 tweets yielded 265 actionable signals and **0** three-account agreements. The famous accounts do not publish ticker-level calls: Cramer produced 3 signals from 393 tweets; Ackman produced 1 from 318.
 4. **Discovery found callers, but not durable skill.** Searching cashtags surfaced 753 authors. The 30 most active produced 5,027 signals, and several looked strong on a recent window. On a two-year sample, most collapsed: only `ethan__trader` (`+2.57%` excess per 5-day trade, `t = 4.12`, `n = 547`) and `darkflowalert` (`+0.59%`, `t = 1.91`, `n = 568`) kept positive weight.
 5. **Consensus destroyed the surviving edge.** Combining the two survivors over a 7-day window produced 40 trades: 47.5% hit rate, **−0.36% mean excess per trade**, and a cumulative **−14.5 percentage points** versus SPY.
@@ -333,7 +333,7 @@ Assumptions: 20% of capital deployed per trade, 200 trades/year, edge measured p
 | $1,000,000 | $200,000 | $400,000 | $20,000–35,000 | Potentially viable if edge survives |
 | $10,000,000 | $2,000,000 | $4,000,000 | $50,000+ | Capacity and slippage become binding |
 
-These numbers are arithmetic, not forecasts. The current measured edge is negative, so every row would lose money.
+These numbers are arithmetic, not forecasts. The only consensus strategy tested had a negative measured edge, so every row would have lost money; the individual edge of `ethan__trader` is not yet validated out of sample.
 
 ### 9.5 Break-even
 
