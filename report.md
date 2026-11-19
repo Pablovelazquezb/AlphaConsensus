@@ -27,6 +27,8 @@ The evidence does **not** support deploying capital.
 
 **Verdict:** AlphaConsensus is a solid research platform, not a validated trading strategy. The paper account should remain at $1,000 with zero positions. The only justified next step is a pre-registered forward paper test of the single surviving account — no real orders — before considering any capital deployment.
 
+**Capital:** deploy **$0 today**. A six-month research pilot costs **$3,000–$19,000**. A credible trading pilot, only after an out-of-sample edge is proven, requires **$250,000–$1,000,000** in risk capital plus **$20,000–$35,000/year** in data and infrastructure.
+
 ---
 
 ## 1. What was built
@@ -356,6 +358,16 @@ Below those levels, even a real edge is consumed by data, infrastructure and com
 - `t ≥ 2.5` out-of-sample, clustered by ticker and date.
 
 If those conditions are met, a **$250,000–$1,000,000** pilot with $20,000–$35,000/year in data and infrastructure would be the next step. Not before.
+
+**Bottom line on money**
+
+| Question | Answer |
+|---|---|
+| How much to deploy now? | **$0** — there is no validated edge. |
+| How much for a six-month research pilot? | **$3,000–$19,000** (data, LLM, infrastructure, legal review). |
+| How much for more compute? | **$500–$2,000/month**; improves extraction and testing, not the edge itself. |
+| How much for a credible trading pilot, if an edge is proven? | **$250,000–$1,000,000** risk capital + **$20,000–$35,000/year** running costs. |
+| Break-even with $25,000/year of costs | $250k at 10% net, $500k at 5%, $1.25M at 2%. |
 
 ---
 
